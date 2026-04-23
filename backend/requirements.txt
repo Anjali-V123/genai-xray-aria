@@ -1,0 +1,13 @@
+flask
+flask-cors
+python-dotenv
+torch
+torchvision
+sentence-transformers
+chromadb
+grad-cam
+groq
+datasets
+huggingface-hub
+Pillow
+numpy

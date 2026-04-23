@@ -1,0 +1,6 @@
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{background:#F1F5F9;min-height:100vh}
+button{font-family:inherit;transition:opacity 0.15s}
+button:hover{opacity:0.88}
+::-webkit-scrollbar{width:4px}
+::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:8px}
