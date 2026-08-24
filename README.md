@@ -147,6 +147,14 @@ The system is cleanly split into three modules, one per team member. Each module
 
 ---
 
+## Screenshots
+
+**Analysis output** — uploaded X-ray with Grad-CAM heatmap
+![Analysis output](screenshots/analysis-output.png)
+
+**Hospital-specific report rendering**
+![Report rendering](screenshots/report-rendering.png)
+
 ## How the `/analyze` pipeline fits together
 
 ```
